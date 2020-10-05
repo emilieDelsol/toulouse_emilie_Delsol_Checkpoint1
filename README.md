@@ -1,4 +1,4 @@
-# Checkpoint 1 - JS
+# Checkpoint 1 - C#
 
 Your 1st checkpoint !
 
