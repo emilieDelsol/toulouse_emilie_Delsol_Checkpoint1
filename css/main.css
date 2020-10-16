@@ -37,9 +37,29 @@ button:focus {
 /************************************
 *************Modify by emilie********
 **************************************/
-
+.main{
+  text-align: center;
+}
+.introduction h1, .introduction p
+{
+  text-align: center;   
+}
+.introduction
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.introduction div
+  {
+    display: flex;
+    justify-content: center;
+  }
+  
 @media screen and (min-width:700px){
   .navbar 
   {
     justify-content: space-between;
   }
+}
+
