@@ -1,0 +1,12 @@
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\bin\Debug\netcoreapp3.1\checkPointEmilieDelsol.exe
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\bin\Debug\netcoreapp3.1\checkPointEmilieDelsol.deps.json
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\bin\Debug\netcoreapp3.1\checkPointEmilieDelsol.runtimeconfig.json
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\bin\Debug\netcoreapp3.1\checkPointEmilieDelsol.runtimeconfig.dev.json
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\bin\Debug\netcoreapp3.1\checkPointEmilieDelsol.dll
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\bin\Debug\netcoreapp3.1\checkPointEmilieDelsol.pdb
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\obj\Debug\netcoreapp3.1\checkPointEmilieDelsol.AssemblyInfoInputs.cache
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\obj\Debug\netcoreapp3.1\checkPointEmilieDelsol.AssemblyInfo.cs
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\obj\Debug\netcoreapp3.1\checkPointEmilieDelsol.csproj.CoreCompileInputs.cache
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\obj\Debug\netcoreapp3.1\checkPointEmilieDelsol.dll
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\obj\Debug\netcoreapp3.1\checkPointEmilieDelsol.pdb
+C:\Users\MilhieWin\source\repos\checkPointEmilieDelsol\checkPointEmilieDelsol\obj\Debug\netcoreapp3.1\checkPointEmilieDelsol.genruntimeconfig.cache
