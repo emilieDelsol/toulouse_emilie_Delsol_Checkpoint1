@@ -55,6 +55,14 @@ button:focus {
   {
     display: flex;
     justify-content: center;
+    align-items: center;
+  }
+  .introduction .photoCV{
+    
+  }
+  .introduction img{
+    border-radius: 50%;
+    max-width: 300px;
   }
   .skills
   {
