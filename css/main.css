@@ -73,6 +73,11 @@ button:focus {
     flex-wrap: wrap;
     justify-content: center;
   }
+  .skills
+  {
+    flex-direction: row-reverse;
+    
+  }
 }
 
 @media screen and (max-width:700px)
