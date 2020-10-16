@@ -33,3 +33,13 @@ a {
 button:focus {
   outline: none;
 }
+
+/************************************
+*************Modify by emilie********
+**************************************/
+
+@media screen and (min-width:700px){
+  .navbar 
+  {
+    justify-content: space-between;
+  }
