@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 
 namespace checkPointEmilieDelsol
 {
-    
-    
+    /*Lien vers la vidéo de l'exécution du programme https://www.loom.com/share/59ec364062bd4ef58d1f4d56a27797eb?from_recorder=1 */
+
     class Program
     {
         static void Main(string[] args)
@@ -41,6 +41,19 @@ namespace checkPointEmilieDelsol
                 "\nThe table sort is: ");
             BubbleSort(tableToSort);
             foreach (int number in tableToSort) { Console.Write($" {number} "); }
+
+            Console.WriteLine("\n\n**********************************" +
+                "\nThe COCKTAIL SORT:" +
+                "\n**********************************");
+            int[] tableToSortCoktail = new int[] { 99, 10, 50, 520, 30, 5, 9, 4, 1, 0 };
+            Console.WriteLine($"The table to sort is: ");
+            foreach (int number in tableToSortCoktail) { Console.Write($" {number} "); }
+            Console.WriteLine("\n-----------------------------------" +
+                "\nThe table sort is: ");
+            CocktailSort(tableToSortCoktail);
+            foreach (int number in tableToSortCoktail) { Console.Write($" {number} "); }
+
+            
         }
 
         public static decimal Add(decimal a, decimal b)
@@ -75,5 +88,32 @@ namespace checkPointEmilieDelsol
             }
             return integerTable;
         }
+        public static int[] CocktailSort(int[] integerTable)
+        {
+
+            for (int i = 1; i < integerTable.Length; i++)
+            {
+                int val = integerTable[i];
+                int flag = 0;
+                for (int j = i - 1; j >= 0 && flag != 1;)
+                {
+                    if (val < integerTable[j])
+                    {
+                        integerTable[j + 1] = integerTable[j];
+                        j--;
+                        integerTable[j + 1] = val;
+                    }
+                    else
+                    {
+                        flag = 1;
+                    }
+                }
+
+            }
+
+            return integerTable;
+
+        }
+        
     }
 }
