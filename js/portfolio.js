@@ -10,14 +10,27 @@ photo.addEventListener("click", function(){photo.src="image/avatarEmilieBgBlack.
 f
 
   function promptFunction () {
-    var Color = prompt ("choose a background color, ex: #750ff7");
+    var color = prompt ("choose a background color, ex: #750ff7");
     var Text = prompt ("Hello! What's your name?", "");
-    if (Text != null) {
-        if (Text != "") {
+    var allYellowBg=document.querySelectorAll(".yellow-bg");
+    var allYellowText=document.querySelectorAll(".yellow-text");
+    if (Text != null && color!= null) {
+        if (Text != "" && color != "") {
             document.getElementById ("name"). innerHTML = Text ;
             document.getElementById ("name").style.color="white";
             document.getElementById("description").classList.toggle("yellow-bg");
-            document.getElementById ("description").style.backgroundColor= Color;
+            document.getElementById ("description")
+            for (i=0 ; i<allYellowText.length;i++){
+                allYellowText[i].style.color=color;
+            }
+            for (i=0 ; i<allYellowBg.length;i++){
+                allYellowBg[i].style.backgroundColor=color;
+            }
+                
+            
+                
+           
+            
         }}
     
     
