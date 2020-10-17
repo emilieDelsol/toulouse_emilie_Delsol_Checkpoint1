@@ -7,7 +7,7 @@ var photo = document.getElementsByClassName("photoCV");
 photo.addEventListener("click", function(){photo.src="image/avatarEmilieBgBlack.jpg";})
 
 
-f
+
 
   function promptFunction () {
     var color = prompt ("choose a background color, ex: #750ff7");
@@ -34,5 +34,19 @@ f
         }}
     
     
+    }
+function darkFunction () {
+    var allYellowBg=document.querySelectorAll(".yellow-bg");
+    for (i=0 ; i<allYellowBg.length;i++){
+        allYellowBg[i].classList.toggle("darkTheme");
+    }
+    document.querySelector("body").classList.toggle("darkThemeBody");
     
+    var darkText=document.querySelectorAll(".darkText");
+    for (j=0;j<darkText.length;j++){
+        darkText[i].classList.toggle("darkThemeText");
+    }
+        
 }
+    
+    

@@ -1,6 +1,20 @@
 .yellow-bg {
   background-color:#ffd43b;
 }
+.softYellow-bg{
+  background-color:rgba(255, 246, 220, 1) ;
+}
+.darkTheme{
+  background-image: url("../image/darkTheme\(2\).png");
+  background-size: cover;
+}
+.darkThemeBody{
+  background-image: url("../image/wallMatrix.jfif");
+}
+.darkThemeText{
+  color: #ffffff;
+}
+
 
 .yellow-text {
   color:#ffd43b;
