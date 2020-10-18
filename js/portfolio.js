@@ -1,14 +1,29 @@
 var img = document.getElementById("photoCV");
  
 img.addEventListener("click", function(){
-    if (img.getAttribute('src') == "image/avatarEmilieBgWhiteRed.jpg") 
+    if (img.getAttribute('src')== "image/avatarEmilieBgWhiteRed.jpg" || img.getAttribute('src')== "image/avatarEmilieBgWhite.jpg")
     {
-        img.src="image/avatarEmilieBgWhite.jpg";
+        if (img.getAttribute('src') == "image/avatarEmilieBgWhiteRed.jpg") 
+        {
+            img.src="image/avatarEmilieBgWhite.jpg";
+        }
+        else
+        {
+            img.src="image/avatarEmilieBgWhiteRed.jpg";
+        }
     }
     else
     {
-        img.src="image/avatarEmilieBgWhiteRed.jpg";
+        if (img.getAttribute('src') == "image/avatarEmilieBgBlackRed.jpg") 
+        {
+            img.src="image/avatarEmilieBgBlack.jpg";
+        }
+        else
+        {
+            img.src="image/avatarEmilieBgBlackRed.jpg";
+        }
     }
+    
 
     
 
