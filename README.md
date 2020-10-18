@@ -19,10 +19,12 @@ Your 1st checkpoint !
 
 ---
 ---
-
-![Alt avatar](https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/image/avatarEmilieBgWhiteRed.jpg "avatar")
-
 **Mon portfolio:** https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html
+---
+![Alt avatar](https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/image/avatarEmilieBgWhiteRed.jpg "avatar")
+---
+
+**Checkpoint 1**
 
     - CSS et algo terminés vendredi matin
     - Algo dans dossier checkPointEmilieDelsol
