@@ -79,7 +79,7 @@ function darkFunction () {
 
     var column = document.getElementsByClassName("column");
     for (n=0; n<column.length; n++){
-        column[n].style.backgroundColor="rgba(233, 240, 243, 0.8)";
+        column[n].classList.toggle("columnDark");
     }
     if (img.getAttribute('src')=="image/avatarEmilieBgWhiteRed.jpg")
     {

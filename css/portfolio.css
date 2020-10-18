@@ -96,3 +96,6 @@ p {
 .darkThemeBody{
   background-image: url("../image/wallMatrix.jfif");
 }
+.columnDark{
+  background-color: rgba(233, 240, 243, 0.8);
+}

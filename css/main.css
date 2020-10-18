@@ -61,6 +61,7 @@ button:focus {
   .introduction #photoCV{
     border-radius: 50%;
     max-width: 200px;
+    box-shadow: 0 0 30px rgba(233, 240, 243, 0.5);
   }
   .skills
   {
