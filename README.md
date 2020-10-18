@@ -24,9 +24,9 @@ Your 1st checkpoint !
 
 **Mon portfolio:** https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html
 
-CSS et algo terminés vendredi matin
-Algo dans dossier checkPointEmilieDelsol
-Lien vers la vidéo de l'exécution du programme https://www.loom.com/share/59ec364062bd4ef58d1f4d56a27797eb?from_recorder=1 
+    - CSS et algo terminés vendredi matin
+    - Algo dans dossier checkPointEmilieDelsol
+-->Lien vers la vidéo de l'exécution du programme https://www.loom.com/share/59ec364062bd4ef58d1f4d56a27797eb?from_recorder=1 
 
 ---
 **Ajout de fonctionnalités JS**
