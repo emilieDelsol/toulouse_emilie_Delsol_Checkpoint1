@@ -16,14 +16,23 @@ Your 1st checkpoint !
 - Fais un commit avec un message EXPLICITE sur ta branche.
 - Fais un push de ta branche.
 
-**Mon portfolio: https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html
+
+---
+
+**Mon portfolio:** https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html
 
 CSS et algo terminés vendredi matin
 Algo dans dossier checkPointEmilieDelsol
 Lien vers la vidéo de l'exécution du programme https://www.loom.com/share/59ec364062bd4ef58d1f4d56a27797eb?from_recorder=1 
 
-Ajout de fonctionnalités JS (demandées dans le checkpoint JS)
+---
+**Ajout de fonctionnalités JS**
 
-Ajout d'un darkTheme  (bouton en haut à droite)
-Personnalisation du contenu HTML et du css
+-fonctionnalités demandées dans le checkpoint JS (sauf les bonus)
+-Ajout d'un darkTheme  (bouton en haut à droite)
+
+---
+**ModificationHTML**
+
+-Personnalisation du contenu HTML et du css
 
