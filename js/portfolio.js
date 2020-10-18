@@ -1,11 +1,15 @@
 var img = document.getElementById("photoCV");
  
-img.addEventListener("click", function(){img.src="image/photoCVs.jpg";img.classList.toggle("photoCV");})
-//img.src = 'image/avatarEmilieBgBlack.jpg';
-
-var photo = document.getElementsByClassName("photoCV");
-photo.addEventListener("click", function(){photo.src="image/avatarEmilieBgBlack.jpg";})
-
+img.addEventListener("click", function(){
+    if (img.getAttribute('src') == "image/avatarEmilieBgWhiteRed.jpg") 
+    {
+        img.src="image/avatarEmilieBgWhite.jpg";
+    }
+    else 
+    {
+        img.src="image/avatarEmilieBgWhiteRed.jpg";
+    }
+});
 
 
 
@@ -48,5 +52,4 @@ function darkFunction () {
     }
         
 }
-    
     
