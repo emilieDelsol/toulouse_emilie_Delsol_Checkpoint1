@@ -18,6 +18,9 @@ Your 1st checkpoint !
 
 
 ---
+---
+
+![Alt avatar](https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/image/avatarEmilieBgWhiteRed.jpg "avatar")
 
 **Mon portfolio:** https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html
 
@@ -36,3 +39,5 @@ Lien vers la vidéo de l'exécution du programme https://www.loom.com/share/59ec
 
 -Personnalisation du contenu HTML et du css
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
