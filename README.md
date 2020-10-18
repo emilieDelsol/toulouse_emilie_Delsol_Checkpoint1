@@ -15,3 +15,5 @@ Your 1st checkpoint !
 
 - Fais un commit avec un message EXPLICITE sur ta branche.
 - Fais un push de ta branche.
+
+**Mon portfolio: https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html
