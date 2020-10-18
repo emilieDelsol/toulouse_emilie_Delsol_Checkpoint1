@@ -19,7 +19,9 @@ Your 1st checkpoint !
 
 ---
 ---
-**Mon portfolio:** https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html
+**Mon portfolio:** <https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/portfolio.html>
+
+
 ---
 ![Alt avatar](https://emiliedelsol.github.io/toulouse_emilie_Delsol_Checkpoint1/image/avatarEmilieBgWhiteRed.jpg "avatar")
 ---
