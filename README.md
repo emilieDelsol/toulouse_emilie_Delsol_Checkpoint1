@@ -34,6 +34,7 @@ Your 1st checkpoint !
 **Ajout de fonctionnalités JS**
 
 -fonctionnalités demandées dans le checkpoint JS (sauf les bonus)
+
 -Ajout d'un darkTheme  (bouton en haut à droite)
 
 ---
