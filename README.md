@@ -40,4 +40,4 @@ Lien vers la vidéo de l'exécution du programme https://www.loom.com/share/59ec
 -Personnalisation du contenu HTML et du css
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilieDelsol=javascript,html)](https://github.com/emilieDelsol/github-readme-stats)
+
