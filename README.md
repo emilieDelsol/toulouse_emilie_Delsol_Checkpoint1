@@ -42,4 +42,11 @@ Your 1st checkpoint !
 -Personnalisation du contenu HTML et du css
 
 
+**Updates à venir:**
+
+-Ajout de contenu HTML 
+
+-supression des fonctionnalités inutiles pour un portfolio
+
+-amélioration du CSS 
 
