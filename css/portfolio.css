@@ -64,13 +64,20 @@
 }
 
 .box {
-  width: 25%;
+  width: auto;
   padding: 30px;
   border: 1px solid #e6ecf8;
   margin: 20px;
   border-radius: 12px;
   box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5);
   background: rgba(255,255,255,0.6);
+}
+
+@media screen and (min-width:700px){
+  .box
+  {
+    width:25%;
+  }
 }
 
 img {
