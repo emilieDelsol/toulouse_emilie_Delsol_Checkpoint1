@@ -1,0 +1,13 @@
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\bin\Debug\netcoreapp3.1\CheckpointCorrections.exe
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\bin\Debug\netcoreapp3.1\CheckpointCorrections.deps.json
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\bin\Debug\netcoreapp3.1\CheckpointCorrections.runtimeconfig.json
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\bin\Debug\netcoreapp3.1\CheckpointCorrections.runtimeconfig.dev.json
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\bin\Debug\netcoreapp3.1\CheckpointCorrections.dll
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\bin\Debug\netcoreapp3.1\CheckpointCorrections.pdb
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\obj\Debug\netcoreapp3.1\CheckpointCorrections.csprojAssemblyReference.cache
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\obj\Debug\netcoreapp3.1\CheckpointCorrections.AssemblyInfoInputs.cache
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\obj\Debug\netcoreapp3.1\CheckpointCorrections.AssemblyInfo.cs
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\obj\Debug\netcoreapp3.1\CheckpointCorrections.csproj.CoreCompileInputs.cache
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\obj\Debug\netcoreapp3.1\CheckpointCorrections.dll
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\obj\Debug\netcoreapp3.1\CheckpointCorrections.pdb
+C:\Users\MilhieWin\source\repos\CheckpointCorrections\CheckpointCorrections\obj\Debug\netcoreapp3.1\CheckpointCorrections.genruntimeconfig.cache
